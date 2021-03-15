@@ -17,7 +17,7 @@ public class CalculatorMain {
 
         System.out.println(prompt);
         int userChoice = userInputCollector.nextInt();
-        System.out.println("Enter first Number");
+       System.out.println("Enter first Number");
         int firstNumber =userInputCollector.nextInt();
         System.out.println("Enter second Number");
         int secondNumber =userInputCollector.nextInt();
