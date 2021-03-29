@@ -1,4 +1,4 @@
-package TDD;
+package Chapter5;
 
 import Kata.Kata;
 import org.junit.jupiter.api.BeforeEach;

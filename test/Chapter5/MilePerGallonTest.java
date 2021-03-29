@@ -1,9 +1,6 @@
-package TDD;
-import  java.util.Scanner;
-import MyAccount.MilePerGallon;
+package Chapter5;
+import BusinessCalculation.MilePerGallon;
 import org.junit.jupiter.api.Test;
-
-import java.util.Scanner;
 
 import static org.junit.jupiter.api.Assertions.*;
 
