@@ -6,11 +6,11 @@ import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
-public class SimpleInterestTest {
-    SimpleInterest profit;
+public class CompoundInterestTest {
+    CompoundInterest profit;
     @BeforeEach
     void beforeEach(){
-        profit=new SimpleInterest();
+        profit=new CompoundInterest();
     }
 @AfterEach
     void afterEach(){
