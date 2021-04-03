@@ -18,8 +18,8 @@ public class SimpleInterestTest {
 }
 @Test
     void methodShouldBeAbleToIncrementForTwoYears(){
-        profit.sumOfSimPleInterest(1000,0.05);
-        assertEquals(1628.894626777442,profit.getSumOfSimpleInterest());
+        profit.sumOfSimPleInterest(35000,0.06);
+        assertEquals(4326.000000000007,profit.getSumOfSimpleInterest());
 }
 
 
